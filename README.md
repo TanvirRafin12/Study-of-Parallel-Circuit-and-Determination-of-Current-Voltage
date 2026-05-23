@@ -1,0 +1,1 @@
+# Study-of-Parallel-Circuit-and-Determination-of-Current-Voltage
